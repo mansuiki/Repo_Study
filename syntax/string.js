@@ -1,0 +1,2 @@
+console.log('1'+'1');
+console.log("Minim culpa tempor occaecat irure laboris reprehenderit ex. Culpa velit cupidatat culpa enim nostrud aute magna nulla sint fugiat. Irure qui do dolore id sit aliquip. Occaecat est irure aute sit labore labore est proident aliqua ex. Excepteur eiusmod irure consequat ex. Ut pariatur duis Lorem quis occaecat esse laborum aliqua in cillum nulla ad fugiat.".length);
