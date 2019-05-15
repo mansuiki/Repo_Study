@@ -33,3 +33,35 @@ Hello This is my First <strong>HTML Programming</strong>.
 ```html
 <a target = "_blank" href = "https://opentutorials.org/module/1892/10932">하이퍼텍스트</a>
 ```
+
+#### 목록
+
+```html
+<li>HTML?</li>
+<li>기본문법</li>
+<li>포켓몬</li>
+<li>디지몬</li>
+
+<li>피카츄</li>
+<li>라이츄</li>
+<li>파이리</li>
+<li>꼬북이</li>
+```
+> ## 어? 왜 두개가 붙어서 나오지? > ```<ul>``` 이나 ```<ol>``` 로 묶어주자!
+
+```html
+<ol> <!-- 순서가 있는 리스트 -->
+    <li>HTML?</li>
+    <li>기본문법</li>
+    <li>포켓몬</li>
+    <li>디지몬</li>
+</ol>
+<ul>
+    <li>피카츄</li>
+    <li>라이츄</li>
+    <li>파이리</li>
+    <li>꼬북이</li>
+</ul>
+
+<!-- 제대로 나온다 ㅎㅎ -->
+```
