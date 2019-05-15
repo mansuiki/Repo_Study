@@ -23,3 +23,13 @@
 Hello This is my First <strong>HTML Programming</strong>.
 ```
 
+#### 하이퍼텍스트
+> ### 속성?
+> 태그에 기능을 추가한다고 생각하면 됨.\
+> ```<a>``` 태그만 쓴다고 해서 하이퍼텍스트가 만들어 지지 않는다.\
+> ```<a href = "주소">``` 태그를 쓰면 주소와 연결되는 하이퍼텍스트가 만들어 진다.\
+> ```<a href = "주소" target = "_blank">``` 같이 속성을 여러개 쓸수도 있다.
+> 
+```html
+<a target = "_blank" href = "https://opentutorials.org/module/1892/10932">하이퍼텍스트</a>
+```
