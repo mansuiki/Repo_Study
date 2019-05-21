@@ -1,4 +1,3 @@
-package OOP;
 
 public class OOP_Start {
     public static void main(String[] args) {
