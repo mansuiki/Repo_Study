@@ -1,3 +1,5 @@
+package OOP;
+
 public class OOP_Start {
     public static void main(String[] args) {
         OOP_Human mansuiki = new OOP_Human(180, 80, 100);

@@ -1,3 +1,4 @@
+package OOP;
 
 public class OOP_Human {
     boolean isSleep;
