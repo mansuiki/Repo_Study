@@ -52,3 +52,6 @@
 > 엌.. 수렴부분이 2개라서 알고리즘 잘못쓰면 ㅈ될 듯\
 > `Convex function` 인지 꼭 한번 확인하고 알고리즘을 적용하자!\
 > ![img](img/lec03-4.png)
+
+
+참고 : [Gradient descent algorithm](https://daeson.tistory.com/167)

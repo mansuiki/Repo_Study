@@ -1,5 +1,5 @@
 # ML Lab 02
-### Linear Regression
+### Simple Linear Regression
 -------
 ### Test with TensorFlow
 ![img](img/lab02-1.png)
