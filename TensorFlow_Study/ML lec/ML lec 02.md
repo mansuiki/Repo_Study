@@ -18,6 +18,6 @@
 ![img](img/lec02-3.png)
 * 실제 데이터(점) 과 예측한 선과의 차이를 계산하면 되겠지!
 * ![img](img/lec02-4.png)
-* 목표 : $cost(W,b)$ 를 `최소화`하는 것!
+* 목표 : cost(W,b) 를 `최소화`하는 것!
 
 참고 : [Blog](http://it.plusblog.co.kr/221238399644)
