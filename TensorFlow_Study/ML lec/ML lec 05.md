@@ -15,10 +15,12 @@
 
 #### Logistic Function
 ![img](img/lec05-2.png)
+##### `이게바로 Sigmoid 함수!`
 > 원하는 0 과 1 의 값 사이로 나온다!
 
 #### Logistic Hypothesis
 ![img](img/lec05-3.png)
+##### `Sigmoid 함수!`
 
 #### Logistic Cost function
 ![img](img/lec05-4.png)
