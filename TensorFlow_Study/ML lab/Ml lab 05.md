@@ -1,4 +1,7 @@
 # ML Lab 05
-### Multi-Variable Linear Regression + Loading Data from File
+### Logistic Classification in TensorFlow
 -------
-#### Multi-Variable Linear Regression
+#### Sigmoid
+![img](img/lab05-1.png)
+![img](img/lab05-2.png)
+> 이 식을 학습 시캬서 제대로 좋은 모델을 만들자!
